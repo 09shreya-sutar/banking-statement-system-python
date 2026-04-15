@@ -8,7 +8,9 @@ This is a GUI-based Banking Statement System built using Python (Tkinter) and My
 - Add account details
 - Store transactions (Deposit/Withdraw)
 - Generate mini bank statement
-- Update account information
+- Update account information<img width="1920" height="1080" alt="bank project" src="https://github.com/user-attachments/assets/1d4e1fa9-e9fd-4749-a5eb-d32efd891d78" />
+<img width="1920" height="1080" alt="bank project" src="https://github.com/user-attachments/assets/b6bb24e8-c4c7-4dea-985d-70634e241a59" />
+
 - Display data in table format
 
 ## 🛠️ Technologies Used
@@ -30,3 +32,6 @@ Update database username & password in code before running.
 ---
 
 ✨ Simple banking system project for learning database + GUI.
+
+<img width="1920" height="1080" alt="bank project" src="https://github.com/user-attachments/assets/da1a04e3-43f1-4a49-ba4b-fa0b8ad87d5e" />
+
